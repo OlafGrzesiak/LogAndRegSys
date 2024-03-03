@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\bin\Debug\net8.0\LogAndRegSys.exe
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\bin\Debug\net8.0\LogAndRegSys.deps.json
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\bin\Debug\net8.0\LogAndRegSys.runtimeconfig.json
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\bin\Debug\net8.0\LogAndRegSys.dll
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\bin\Debug\net8.0\LogAndRegSys.pdb
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\LogAndRegSys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\LogAndRegSys.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\LogAndRegSys.AssemblyInfo.cs
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\LogAndRegSys.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\LogAndRegSys.dll
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\refint\LogAndRegSys.dll
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\LogAndRegSys.pdb
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\LogAndRegSys.genruntimeconfig.cache
+C:\Users\User\RiderProjects\LogAndRegSys\LogAndRegSys\obj\Debug\net8.0\ref\LogAndRegSys.dll
